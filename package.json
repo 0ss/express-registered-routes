@@ -1,6 +1,6 @@
 {
   "name": "express-registered-routes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Print registered route for you express application",
   "main": "index.ts",
   "scripts": {
